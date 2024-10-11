@@ -32,3 +32,13 @@ PS C:\DjangoTutorial> .\DjangoTutorial\Scripts\Activate.ps1
 ```bash
 source DjangoTutorial/bin/activate
 ```
+
+### Djangoのインストール
+```bash
+pip install django
+```
+
+### 起動
+```bash
+python manage.py runserver
+```
