@@ -24,7 +24,7 @@ PS C:\DjangoTutorial> Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
 
 次に仮想環境をアクティベートします。
 ```powershell
-PS C:\DjangoTutorial> Scripts\activate.ps1
+PS C:\DjangoTutorial> .\DjangoTutorial\Scripts\Activate.ps1
 ```
 
 
